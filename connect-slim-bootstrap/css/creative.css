@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 hr {
@@ -175,6 +175,12 @@ header.masthead {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  /* Set a specific height */
+  height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 header.masthead hr {
@@ -309,4 +315,42 @@ header.masthead p {
 
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+}
+
+
+.contact-background {
+  padding: 20px;
+  background-color: #eeeeee;
+}
+
+.form-font {
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.form-font label{
+  float: left;
+}
+
+.form-font textarea, .form-font input {
+  border-radius: 0%;
+  border: none;
+  border-bottom: 1px solid #878787;
+  background-color: #eeeeee;
+}
+
+.contact-info-text {
+  float: left;
+  text-align: left;
+}
+.contact-header {
+  padding-bottom: 40px;
+  text-align: center;
+}
+.contact-border {
+  border-bottom: 1px solid #878787;
+}
+
+.contact-section {
+  padding-top: 50px;
+  padding-bottom: 30px;
 }
