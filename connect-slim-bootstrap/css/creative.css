@@ -310,3 +310,43 @@ header.masthead p {
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
+
+.bluegreen {
+  background-color: #5ec2b7;
+  padding: 0;
+}
+
+.container-image {
+  width: 100%;
+  position: relative;
+  top: -40px;
+  right: 130px;
+}
+
+.title {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 25px 30px 0;
+}
+
+.padding {
+  padding: 8rem 0;
+}
+
+.container-height {
+  height: 100px;
+}
+
+@media screen and (max-width: 768px) {
+  .title {
+    display: flex;
+    justify-content: center;
+    margin: 0 0 30px 0;
+  }
+  .container-image {
+    display: none;
+  }
+  .none {
+    display: none;
+  }
+}
