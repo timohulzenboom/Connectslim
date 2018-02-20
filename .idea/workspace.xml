@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57612b8d-5f79-456b-82ea-b3d88999aab0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/connect-slim-bootstrap/img/connectslimheader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/connect-slim-bootstrap/img/connectslimlogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Connectslim.iml" afterPath="$PROJECT_DIR$/.idea/Connectslim.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/connect-slim-bootstrap/css/creative.css" afterPath="$PROJECT_DIR$/connect-slim-bootstrap/css/creative.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/connect-slim-bootstrap/index.html" afterPath="$PROJECT_DIR$/connect-slim-bootstrap/index.html" />
     </list>
@@ -19,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/connect-slim-bootstrap/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="149" column="39" lean-forward="false" selection-start-line="149" selection-start-column="39" selection-end-line="149" selection-end-column="39" />
+            <state relative-caret-position="208">
+              <caret line="150" column="39" lean-forward="false" selection-start-line="150" selection-start-column="39" selection-end-line="150" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -33,33 +37,66 @@
         <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+              <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="creative.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="creative.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/connect-slim-bootstrap/css/creative.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="749">
               <caret line="353" column="16" lean-forward="false" selection-start-line="353" selection-start-column="16" selection-end-line="353" selection-end-column="16" />
-              <folding />
+              <folding>
+                <marker date="1519135116112" expanded="true" signature="3432:3867" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="3888:3934" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="3955:3977" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="3997:4020" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="4048:4101" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="4070:4099" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="4129:4289" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="4149:4239" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="4261:4287" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="4318:4369" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="4341:4367" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="4384:4407" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="4424:4505" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="4545:4797" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="4868:4973" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="5146:5233" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="5322:5393" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="5478:5500" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="5546:5563" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="5586:5606" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="5634:5865" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="5725:5751" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="5837:5863" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="5881:5913" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="5920:6077" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="6087:6112" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="6127:6184" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="6246:6304" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="6346:6411" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="6434:6483" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="6496:6564" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="6582:6600" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="6640:6745" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="6766:6804" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="6821:6870" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="6887:6926" ph="{...}" />
+                <marker date="1519135116112" expanded="true" signature="6945:6993" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="835">
-              <caret line="720" column="31" lean-forward="false" selection-start-line="720" selection-start-column="31" selection-end-line="720" selection-end-column="31" />
-              <folding>
-                <marker date="1519134966160" expanded="true" signature="39856:39873" ph="..." />
-                <marker date="1519134966160" expanded="true" signature="39856:39891" ph="..." />
-                <marker date="1519134966160" expanded="true" signature="39856:39904" ph="..." />
-                <marker date="1519134966160" expanded="true" signature="39856:39919" ph="..." />
-              </folding>
+            <state relative-caret-position="763">
+              <caret line="823" column="10" lean-forward="true" selection-start-line="823" selection-start-column="10" selection-end-line="823" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,9 +138,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/connect-slim-bootstrap/css/creative.min.css" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/connect-slim-bootstrap/index.html" />
         <option value="$PROJECT_DIR$/connect-slim-bootstrap/css/creative.css" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -646,12 +683,12 @@
       <updated>1518703249084</updated>
       <workItem from="1518703257017" duration="1016000" />
       <workItem from="1519041998150" duration="591000" />
-      <workItem from="1519115613164" duration="13739000" />
+      <workItem from="1519115613164" duration="13914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15346000" />
+    <option name="totallyTimeSpent" value="15521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1924" height="1047" extended-state="0" />
@@ -713,32 +750,8 @@
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="835">
-          <caret line="720" column="31" lean-forward="false" selection-start-line="720" selection-start-column="31" selection-end-line="720" selection-end-column="31" />
-          <folding>
-            <marker date="1519134966160" expanded="true" signature="39856:39873" ph="..." />
-            <marker date="1519134966160" expanded="true" signature="39856:39891" ph="..." />
-            <marker date="1519134966160" expanded="true" signature="39856:39904" ph="..." />
-            <marker date="1519134966160" expanded="true" signature="39856:39919" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/connect-slim-bootstrap/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="149" column="39" lean-forward="false" selection-start-line="149" selection-start-column="39" selection-end-line="149" selection-end-column="39" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -746,6 +759,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="749">
           <caret line="353" column="16" lean-forward="false" selection-start-line="353" selection-start-column="16" selection-end-line="353" selection-end-column="16" />
+          <folding>
+            <marker date="1519135116112" expanded="true" signature="3432:3867" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="3888:3934" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="3955:3977" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="3997:4020" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="4048:4101" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="4070:4099" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="4129:4289" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="4149:4239" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="4261:4287" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="4318:4369" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="4341:4367" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="4384:4407" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="4424:4505" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="4545:4797" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="4868:4973" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="5146:5233" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="5322:5393" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="5478:5500" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="5546:5563" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="5586:5606" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="5634:5865" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="5725:5751" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="5837:5863" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="5881:5913" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="5920:6077" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="6087:6112" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="6127:6184" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="6246:6304" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="6346:6411" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="6434:6483" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="6496:6564" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="6582:6600" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="6640:6745" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="6766:6804" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="6821:6870" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="6887:6926" ph="{...}" />
+            <marker date="1519135116112" expanded="true" signature="6945:6993" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect-slim-bootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="150" column="39" lean-forward="false" selection-start-line="150" selection-start-column="39" selection-end-line="150" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="823" column="10" lean-forward="true" selection-start-line="823" selection-start-column="10" selection-end-line="823" selection-end-column="10" />
           <folding />
         </state>
       </provider>
