@@ -310,3 +310,45 @@ header.masthead p {
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
+
+.footer {
+	background: #858785;
+	padding-bottom: 2px;
+	padding-top: 2px;
+}
+
+.footer-text {
+	font-family: "TYPOGRAPH PRO",sans-serif;
+}
+
+.footer-text-container {
+	display: flex;
+	margin-left: -10px;
+}
+
+.footer-title {
+	font-family: "TYPOGRAPH PRO", sans-serif;
+}
+
+.footer-copyright {
+	font-family: "TYPOGRAPH PRO",sans-serif;
+}
+
+.item-container {
+	list-style-type: none;
+	margin-top: -4px;
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	transition: .2s  ease-in-out;
+	color: #1169b0;
+	text-decoration: none;
+}
+
+ .items {
+	font-family: "TYPOGRAPH PRO", sans-serif;
+}
