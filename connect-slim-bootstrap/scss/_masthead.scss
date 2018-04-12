@@ -2,7 +2,7 @@
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url('../img/header.jpg');
+  background-image: url('../img/Whole1.jpg');
   background-position: center center;
   @include background-cover;
   hr {
@@ -34,4 +34,11 @@ header.masthead {
       font-size: 4rem;
     }
   }
+}
+
+masthead text-center text-white d-flex {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
+  background-image: url('../img/Whole1.jpg');
+  background-position: center center;
 }
