@@ -398,3 +398,32 @@ header.masthead p {
     position: relative;
     left: -7px;
 }
+
+.project-block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 75%;
+    height: 100%;
+}
+
+.project-image {
+    height: 150px;
+    width: 250px;
+    background-color: white;
+}
+
+.project-image:hover {
+    cursor: pointer;
+}
+
+.block {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    justify-content: center;
+}
